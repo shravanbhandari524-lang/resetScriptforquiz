@@ -1,0 +1,1 @@
+ MONGO_URL="mongodb+srv://jsscrip:choose_a_password@cluster0.6s52fih.mongodb.net/freshers_quiz?retryWrites=true&w=majority" node reset.js
